@@ -1,6 +1,6 @@
 # Hello👋, I'm Pedro,
 ## Student with the primary goal of becoming a **Software Developer**.
-I'm from Spain and currently studying Web development.
+I'm student of Web development from Spain.
 ## 🎯Skills
 ### Programming Tools and Lenguages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
