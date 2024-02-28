@@ -3,7 +3,7 @@
 I'm student of Web development from Spain.
 ## 🎯Skills
 ### Programming Tools and Lenguages
-<table align="center" style="border-collapse: collapse; border: 1px solid rgba(255, 0, 0, 0.5);">
+<table align="center">
   <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
