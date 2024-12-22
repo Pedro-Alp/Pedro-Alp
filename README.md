@@ -1,6 +1,5 @@
 # Hello👋, I'm Pedro,
 ## Student with the primary goal of becoming a **Software Developer**.
-I'm student of Web development from Spain.
 ## 🎯Skills
 ### Programming Tools and Lenguages
 <table align="center">
