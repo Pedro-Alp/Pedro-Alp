@@ -1,5 +1,5 @@
 # Hello👋, I'm Pedro,
-## Student with the primary goal of becoming a **Software Developer**.
+## BSc Computer Science and Engineering Student @ UPM
 ## 🎯Skills
 ### Programming Tools and Lenguages
 <table align="center">
